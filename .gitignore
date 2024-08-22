@@ -1,0 +1,11 @@
+/public/hot
+/public/storage
+/storage/*.key
+/storage/
+/.env
+/public/business_settings/*
+/public/uploads/image/*
+/public/uploads/products/*
+/public/uploads/social_media/*
+/vendor
+node_modules
